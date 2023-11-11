@@ -49,6 +49,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun btn5Click(view: View) {
-
+        val switchActivityIntent = Intent(this, FirstActivity::class.java)
+        startActivity(switchActivityIntent)
     }
 }

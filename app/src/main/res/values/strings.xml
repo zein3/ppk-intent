@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">PPK_Intent</string>
+    <string name="save_and_show_report">Save and Show Report</string>
+    <string name="age">Age</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="answer_first_name">Name: %1$s</string>
+    <string name="answer_last_name">Surname: %1$s</string>
+    <string name="answer_age">Age: %1$s</string>
 </resources>
